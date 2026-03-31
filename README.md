@@ -22,6 +22,7 @@ The goal is to help businesses understand different customer groups and improve 
 - SQL
 - Power BI
 - Excel / CSV
+- DAX(Data Analysis Expressions)
 - Data Visualization
 - Business Analytics
 
