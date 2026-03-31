@@ -91,8 +91,7 @@ The goal is to help businesses understand different customer groups and improve 
 ---
 
 ## 📷 Dashboard Preview
-  https://github.com/priyanshusingh6363/customer-segmentation-sql-powerbi/blob/main/Customer%20segmentation%20Dashboard.png
-
+  ![Dashboard](https://github.com/priyanshusingh6363/customer-segmentation-sql-powerbi/blob/main/Customer%20segmentation%20Dashboard.png)
 
 ---
 
