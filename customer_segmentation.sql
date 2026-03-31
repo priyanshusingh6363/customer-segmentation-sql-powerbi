@@ -60,7 +60,7 @@ select*from customer
 	from customer
 	group by gender
 	
--- 10. Top 5 Customers by Spending Score
+-- 9. Top 5 Customers by Spending Score
 	select customerid,annual_income,spending_score
 	from customer
 	order by spending_score desc
