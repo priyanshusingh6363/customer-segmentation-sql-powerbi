@@ -90,7 +90,8 @@ The goal is to help businesses understand different customer groups and improve 
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+
+
 
 ---
 
