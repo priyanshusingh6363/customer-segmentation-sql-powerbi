@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income ,Spending Score ,Custom,Income_category,Spendings_category,Customer_segment
+1,Male,19,15,39,Young,Low,Low,Occasional Buyer
+2,Male,21,15,81,Young,Low,High,Bargain Hunter
+3,Female,20,16,6,Young,Low,Low,Occasional Buyer
+4,Female,23,16,77,Young,Low,High,Bargain Hunter
+5,Female,31,17,40,Adult,Low,Medium,Occasional Buyer
+6,Female,22,17,76,Young,Low,High,Bargain Hunter
+7,Female,35,18,6,Adult,Low,Low,Occasional Buyer
+8,Female,23,18,94,Young,Low,High,Bargain Hunter
+9,Male,64,19,3,Senior,Low,Low,Occasional Buyer
+10,Female,30,19,72,Adult,Low,High,Bargain Hunter
+11,Male,67,19,14,Senior,Low,Low,Occasional Buyer
+12,Female,35,19,99,Adult,Low,High,Bargain Hunter
+13,Female,58,20,15,Senior,Low,Low,Occasional Buyer
+14,Female,24,20,77,Young,Low,High,Bargain Hunter
+15,Male,37,20,13,Adult,Low,Low,Occasional Buyer
+16,Male,22,20,79,Young,Low,High,Bargain Hunter
+17,Female,35,21,35,Adult,Low,Low,Occasional Buyer
+18,Male,20,21,66,Young,Low,Medium,Occasional Buyer
+19,Male,52,23,29,Senior,Low,Low,Occasional Buyer
+20,Female,35,23,98,Adult,Low,High,Bargain Hunter
+21,Male,35,24,35,Adult,Low,Low,Occasional Buyer
+22,Male,25,24,73,Young,Low,High,Bargain Hunter
+23,Female,46,25,5,Senior,Low,Low,Occasional Buyer
+24,Male,31,25,73,Adult,Low,High,Bargain Hunter
+25,Female,54,28,14,Senior,Low,Low,Occasional Buyer
+26,Male,29,28,82,Adult,Low,High,Bargain Hunter
+27,Female,45,28,32,Senior,Low,Low,Occasional Buyer
+28,Male,35,28,61,Adult,Low,Medium,Occasional Buyer
+29,Female,40,29,31,Adult,Low,Low,Occasional Buyer
+30,Female,23,29,87,Young,Low,High,Bargain Hunter
+31,Male,60,30,4,Senior,Low,Low,Occasional Buyer
+32,Female,21,30,73,Young,Low,High,Bargain Hunter
+33,Male,53,33,4,Senior,Low,Low,Occasional Buyer
+34,Male,18,33,92,Young,Low,High,Bargain Hunter
+35,Female,49,33,14,Senior,Low,Low,Occasional Buyer
+36,Female,21,33,81,Young,Low,High,Bargain Hunter
+37,Female,42,34,17,Senior,Low,Low,Occasional Buyer
+38,Female,30,34,73,Adult,Low,High,Bargain Hunter
+39,Female,36,37,26,Adult,Low,Low,Occasional Buyer
+40,Female,20,37,75,Young,Low,High,Bargain Hunter
+41,Female,65,38,35,Senior,Low,Low,Occasional Buyer
+42,Male,24,38,92,Young,Low,High,Bargain Hunter
+43,Male,48,39,36,Senior,Low,Low,Occasional Buyer
+44,Female,31,39,61,Adult,Low,Medium,Occasional Buyer
+45,Female,49,39,28,Senior,Low,Low,Occasional Buyer
+46,Female,24,39,65,Young,Low,Medium,Occasional Buyer
+47,Female,50,40,55,Senior,Medium,Medium,Occasional Buyer
+48,Female,27,40,47,Adult,Medium,Medium,Occasional Buyer
+49,Female,29,40,42,Adult,Medium,Medium,Occasional Buyer
+50,Female,31,40,42,Adult,Medium,Medium,Occasional Buyer
+51,Female,49,42,52,Senior,Medium,Medium,Occasional Buyer
+52,Male,33,42,60,Adult,Medium,Medium,Occasional Buyer
+53,Female,31,43,54,Adult,Medium,Medium,Occasional Buyer
+54,Male,59,43,60,Senior,Medium,Medium,Occasional Buyer
+55,Female,50,43,45,Senior,Medium,Medium,Occasional Buyer
+56,Male,47,43,41,Senior,Medium,Medium,Occasional Buyer
+57,Female,51,44,50,Senior,Medium,Medium,Occasional Buyer
+58,Male,69,44,46,Senior,Medium,Medium,Occasional Buyer
+59,Female,27,46,51,Adult,Medium,Medium,Occasional Buyer
+60,Male,53,46,46,Senior,Medium,Medium,Occasional Buyer
+61,Male,70,46,56,Senior,Medium,Medium,Occasional Buyer
+62,Male,19,46,55,Young,Medium,Medium,Occasional Buyer
+63,Female,67,47,52,Senior,Medium,Medium,Occasional Buyer
+64,Female,54,47,59,Senior,Medium,Medium,Occasional Buyer
+65,Male,63,48,51,Senior,Medium,Medium,Occasional Buyer
+66,Male,18,48,59,Young,Medium,Medium,Occasional Buyer
+67,Female,43,48,50,Senior,Medium,Medium,Occasional Buyer
+68,Female,68,48,48,Senior,Medium,Medium,Occasional Buyer
+69,Male,19,48,59,Young,Medium,Medium,Occasional Buyer
+70,Female,32,48,47,Adult,Medium,Medium,Occasional Buyer
+71,Male,70,49,55,Senior,Medium,Medium,Occasional Buyer
+72,Female,47,49,42,Senior,Medium,Medium,Occasional Buyer
+73,Female,60,50,49,Senior,Medium,Medium,Occasional Buyer
+74,Female,60,50,56,Senior,Medium,Medium,Occasional Buyer
+75,Male,59,54,47,Senior,Medium,Medium,Occasional Buyer
+76,Male,26,54,54,Adult,Medium,Medium,Occasional Buyer
+77,Female,45,54,53,Senior,Medium,Medium,Occasional Buyer
+78,Male,40,54,48,Adult,Medium,Medium,Occasional Buyer
+79,Female,23,54,52,Young,Medium,Medium,Occasional Buyer
+80,Female,49,54,42,Senior,Medium,Medium,Occasional Buyer
+81,Male,57,54,51,Senior,Medium,Medium,Occasional Buyer
+82,Male,38,54,55,Adult,Medium,Medium,Occasional Buyer
+83,Male,67,54,41,Senior,Medium,Medium,Occasional Buyer
+84,Female,46,54,44,Senior,Medium,Medium,Occasional Buyer
+85,Female,21,54,57,Young,Medium,Medium,Occasional Buyer
+86,Male,48,54,46,Senior,Medium,Medium,Occasional Buyer
+87,Female,55,57,58,Senior,Medium,Medium,Occasional Buyer
+88,Female,22,57,55,Young,Medium,Medium,Occasional Buyer
+89,Female,34,58,60,Adult,Medium,Medium,Occasional Buyer
+90,Female,50,58,46,Senior,Medium,Medium,Occasional Buyer
+91,Female,68,59,55,Senior,Medium,Medium,Occasional Buyer
+92,Male,18,59,41,Young,Medium,Medium,Occasional Buyer
+93,Male,48,60,49,Senior,Medium,Medium,Occasional Buyer
+94,Female,40,60,40,Adult,Medium,Medium,Occasional Buyer
+95,Female,32,60,42,Adult,Medium,Medium,Occasional Buyer
+96,Male,24,60,52,Young,Medium,Medium,Occasional Buyer
+97,Female,47,60,47,Senior,Medium,Medium,Occasional Buyer
+98,Female,27,60,50,Adult,Medium,Medium,Occasional Buyer
+99,Male,48,61,42,Senior,Medium,Medium,Occasional Buyer
+100,Male,20,61,49,Young,Medium,Medium,Occasional Buyer
+101,Female,23,62,41,Young,Medium,Medium,Occasional Buyer
+102,Female,49,62,48,Senior,Medium,Medium,Occasional Buyer
+103,Male,67,62,59,Senior,Medium,Medium,Occasional Buyer
+104,Male,26,62,55,Adult,Medium,Medium,Occasional Buyer
+105,Male,49,62,56,Senior,Medium,Medium,Occasional Buyer
+106,Female,21,62,42,Young,Medium,Medium,Occasional Buyer
+107,Female,66,63,50,Senior,Medium,Medium,Occasional Buyer
+108,Male,54,63,46,Senior,Medium,Medium,Occasional Buyer
+109,Male,68,63,43,Senior,Medium,Medium,Occasional Buyer
+110,Male,66,63,48,Senior,Medium,Medium,Occasional Buyer
+111,Male,65,63,52,Senior,Medium,Medium,Occasional Buyer
+112,Female,19,63,54,Young,Medium,Medium,Occasional Buyer
+113,Female,38,64,42,Adult,Medium,Medium,Occasional Buyer
+114,Male,19,64,46,Young,Medium,Medium,Occasional Buyer
+115,Female,18,65,48,Young,Medium,Medium,Occasional Buyer
+116,Female,19,65,50,Young,Medium,Medium,Occasional Buyer
+117,Female,63,65,43,Senior,Medium,Medium,Occasional Buyer
+118,Female,49,65,59,Senior,Medium,Medium,Occasional Buyer
+119,Female,51,67,43,Senior,Medium,Medium,Occasional Buyer
+120,Female,50,67,57,Senior,Medium,Medium,Occasional Buyer
+121,Male,27,67,56,Adult,Medium,Medium,Occasional Buyer
+122,Female,38,67,40,Adult,Medium,Medium,Occasional Buyer
+123,Female,40,69,58,Adult,Medium,Medium,Occasional Buyer
+124,Male,39,69,91,Adult,Medium,High,Bargain Hunter
+125,Female,23,70,29,Young,High,Low,Cautious
+126,Female,31,70,77,Adult,High,High,VIP
+127,Male,43,71,35,Senior,High,Low,Cautious
+128,Male,40,71,95,Adult,High,High,VIP
+129,Male,59,71,11,Senior,High,Low,Cautious
+130,Male,38,71,75,Adult,High,High,VIP
+131,Male,47,71,9,Senior,High,Low,Cautious
+132,Male,39,71,75,Adult,High,High,VIP
+133,Female,25,72,34,Young,High,Low,Cautious
+134,Female,31,72,71,Adult,High,High,VIP
+135,Male,20,73,5,Young,High,Low,Cautious
+136,Female,29,73,88,Adult,High,High,VIP
+137,Female,44,73,7,Senior,High,Low,Cautious
+138,Male,32,73,73,Adult,High,High,VIP
+139,Male,19,74,10,Young,High,Low,Cautious
+140,Female,35,74,72,Adult,High,High,VIP
+141,Female,57,75,5,Senior,High,Low,Cautious
+142,Male,32,75,93,Adult,High,High,VIP
+143,Female,28,76,40,Adult,High,Medium,Cautious
+144,Female,32,76,87,Adult,High,High,VIP
+145,Male,25,77,12,Young,High,Low,Cautious
+146,Male,28,77,97,Adult,High,High,VIP
+147,Male,48,77,36,Senior,High,Low,Cautious
+148,Female,32,77,74,Adult,High,High,VIP
+149,Female,34,78,22,Adult,High,Low,Cautious
+150,Male,34,78,90,Adult,High,High,VIP
+151,Male,43,78,17,Senior,High,Low,Cautious
+152,Male,39,78,88,Adult,High,High,VIP
+153,Female,44,78,20,Senior,High,Low,Cautious
+154,Female,38,78,76,Adult,High,High,VIP
+155,Female,47,78,16,Senior,High,Low,Cautious
+156,Female,27,78,89,Adult,High,High,VIP
+157,Male,37,78,1,Adult,High,Low,Cautious
+158,Female,30,78,78,Adult,High,High,VIP
+159,Male,34,78,1,Adult,High,Low,Cautious
+160,Female,30,78,73,Adult,High,High,VIP
+161,Female,56,79,35,Senior,High,Low,Cautious
+162,Female,29,79,83,Adult,High,High,VIP
+163,Male,19,81,5,Young,High,Low,Cautious
+164,Female,31,81,93,Adult,High,High,VIP
+165,Male,50,85,26,Senior,High,Low,Cautious
+166,Female,36,85,75,Adult,High,High,VIP
+167,Male,42,86,20,Senior,High,Low,Cautious
+168,Female,33,86,95,Adult,High,High,VIP
+169,Female,36,87,27,Adult,High,Low,Cautious
+170,Male,32,87,63,Adult,High,Medium,Cautious
+171,Male,40,87,13,Adult,High,Low,Cautious
+172,Male,28,87,75,Adult,High,High,VIP
+173,Male,36,87,10,Adult,High,Low,Cautious
+174,Male,36,87,92,Adult,High,High,VIP
+175,Female,52,88,13,Senior,High,Low,Cautious
+176,Female,30,88,86,Adult,High,High,VIP
+177,Male,58,88,15,Senior,High,Low,Cautious
+178,Male,27,88,69,Adult,High,Medium,Cautious
+179,Male,59,93,14,Senior,High,Low,Cautious
+180,Male,35,93,90,Adult,High,High,VIP
+181,Female,37,97,32,Adult,High,Low,Cautious
+182,Female,32,97,86,Adult,High,High,VIP
+183,Male,46,98,15,Senior,High,Low,Cautious
+184,Female,29,98,88,Adult,High,High,VIP
+185,Female,41,99,39,Senior,High,Low,Cautious
+186,Male,30,99,97,Adult,High,High,VIP
+187,Female,54,101,24,Senior,High,Low,Cautious
+188,Male,28,101,68,Adult,High,Medium,Cautious
+189,Female,41,103,17,Senior,High,Low,Cautious
+190,Female,36,103,85,Adult,High,High,VIP
+191,Female,34,103,23,Adult,High,Low,Cautious
+192,Female,32,103,69,Adult,High,Medium,Cautious
+193,Male,33,113,8,Adult,High,Low,Cautious
+194,Female,38,113,91,Adult,High,High,VIP
+195,Female,47,120,16,Senior,High,Low,Cautious
+196,Female,35,120,79,Adult,High,High,VIP
+197,Female,45,126,28,Senior,High,Low,Cautious
+198,Male,32,126,74,Adult,High,High,VIP
+199,Male,32,137,18,Adult,High,Low,Cautious
+200,Male,30,137,83,Adult,High,High,VIP
